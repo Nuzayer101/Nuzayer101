@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Nuzayer kamali</h1>
-<h3 align="center">A passionate frontend developer from bangladesh</h3>
+### Hi there 👋, i am Nuzayer
+#### web developer
+![web developer](https://files.oaiusercontent.com/file-E8FVoLDTa62UPgsDBXjmrh?se=2025-01-20T10%3A58%3A32Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da4979d23-1d74-4ea6-9f2f-5d67b06e284e.webp&sig=YeDv/brOjoTLZFv/f9N%2BnimXmZpyp4YK9QxyxItyybI%3D)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuzayer101&label=Profile%20views&color=0e75b6&style=flat" alt="nuzayer101" /> </p>
+I'm Nuzayer , a passionate Frontend Developer with experience in HTML, CSS, JavaScript, and frameworks like React . I focus on building clean, responsive websites and applications that provide seamless user experiences. Always eager to learn new technologies and take on exciting challenges. Let’s connect!
 
-- 💬 Ask me about **react**
+Skills:  REACT / JS / HTML / CSS/ TAILWIND CSS
 
-- 📫 How to reach me **infonuzayer@gmail.com**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning backend 
+- 💬 Ask me about web developer 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/md nuzayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md nuzayer" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nuzayer101)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuzayer101&show_icons=true&locale=en&layout=compact" alt="nuzayer101" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nuzayer101)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuzayer101&show_icons=true&locale=en" alt="nuzayer101" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzayer101)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuzayer101&" alt="nuzayer101" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuzayer101&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Nuzayer101/contributions?format=svg&private=true)  
+
+
