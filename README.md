@@ -19,6 +19,5 @@ Skills:  REACT / JS / HTML / CSS/ TAILWIND CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuzayer101&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Nuzayer101/contributions?format=svg&private=true)  
 
 
